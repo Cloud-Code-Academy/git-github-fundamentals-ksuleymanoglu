@@ -1,4 +1,4 @@
-Kadir Suleymanoglu
+Kadir Suleymanoglu read the readme.md file.
 
 # :wave: The Basics of GitHub 
 
